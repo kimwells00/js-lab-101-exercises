@@ -4,3 +4,12 @@
 // integer return an empty array
 //
 // Name the function "finalFunction"
+let arr = [];
+function finalFunction(num) {
+  arr.push("kim");
+  return arr;
+}
+if (let i = 0; i >= 1;i++){
+   arr.push("kim");
+   return arr; 
+}
